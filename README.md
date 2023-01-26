@@ -21,16 +21,7 @@ etc.
 
 
 How Java Programs Work ?
---------------------------------------------------------------
-
-Program.java		  Program.class		 JVM(Java Virtual Machine)
-		   Compile							  Execute									
-_____________		  ___________	       ____________	
-|		|__________  |		 |_________  |		 |__________
-|		|__________|>|		 |_________|>|		 |__________|>		
-|___________|		 |___________|           |___________|
-
-Source Code			    Bytecode		  Machine Code
+------------------------------------------------------------
 
 
 Create a java program ,that program extension is .java (say Source code)and then compile and the program
